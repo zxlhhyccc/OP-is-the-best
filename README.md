@@ -20,7 +20,8 @@
 【相关工具合集】：         
 * [工具](https://opisthebest.github.io/tool/)                         
 
-【友链】：                 
+【友链】：        
+* [IT奶爸](https://www.youtube.com/c/IT%E5%A5%B6%E7%88%B8/videos)         
 * [沁沁的上网笔记](https://quickvideosharing.github.io/note/)               
 
 
