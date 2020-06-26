@@ -18,6 +18,11 @@
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)        
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)          
 
+【相关工具合集】：         
+[工具](https://opisthebest.github.io/tool/)                         
+
+
+
 
 
 
