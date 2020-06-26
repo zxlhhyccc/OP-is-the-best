@@ -3,4 +3,12 @@
 由于WRT54G价格低廉，OpenWrt又开源免费，成为学习嵌入式Linux最佳平台。OpenWrt本身未带任何UI，需要通过LuCI，webif等各种延伸界面，LuCI界面是使用率最高的Web管理界面。               
 [完整原文](https://zh.wikipedia.org/wiki/OpenWrt)                  
 
-【本土化Fork】：                
+【OpenWRT本土化Fork】：                
+* [Lean的Fork](https://github.com/coolsnowwolf/lede)            
+目前最主流的Fork，内置Lean开发的ssrp（ShadowsocksR Plus+)翻墙插件，除了x86/ARM，也为一些廉价硬路由赋予了翻墙的价值，可以说是一己之力拉低了可翻墙硬路由的价格门槛，简化的编译依赖自动勾选也让OpenWRT编译门槛降低          
+近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)          
+* [Lienol的Fork](https://github.com/Lienol/openwrt)              
+
+
+
+
