@@ -16,6 +16,7 @@
 * [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233)         
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)        
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)          
+>>>其他的硬路由/ARM设备的固件可在恩山论坛搜索下载到热心站友编译分享的固件：[恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)                   
 
 【相关工具合集】：         
 * [工具](https://opisthebest.github.io/tool/)                         
