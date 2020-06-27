@@ -7,9 +7,7 @@
 >>>近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)          
 * [Lienol的Fork](https://github.com/Lienol/openwrt)              
 紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                 
->>>目前passwall已经闭源，何时会不会再开源未知                 
-* [官方OpenWRT](https://github.com/openwrt/openwrt)          
-无翻墙插件，可自行植入翻墙插件                            
+>>>目前passwall已经闭源，何时会不会再开源未知                                      
 
 【OpenWRT固件(已经编译好的可翻墙固件)】：            
 * [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233)         
