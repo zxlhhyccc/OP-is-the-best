@@ -24,10 +24,11 @@
 紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                 
 ///目前passwall已经闭源，何时会不会再开源未知                                      
 
-# 友链             
-* [IT奶爸](https://www.youtube.com/c/IT%E5%A5%B6%E7%88%B8/videos)         
-* [沁沁的上网笔记](https://quickvideosharing.github.io/note/)               
-
+# 友链               
+* [IT奶爸](https://www.youtube.com/c/IT%E5%A5%B6%E7%88%B8/videos)                     
+* [恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
+* [奈菲影视](https://www.nfmovies.com/)                
+* [沁沁的上网笔记](https://quickvideosharing.github.io/note/)                     
 
 
 
