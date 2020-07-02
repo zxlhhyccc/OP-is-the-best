@@ -32,6 +32,11 @@
 ///目前passwall已经闭源，何时会不会再开源未知                                      
 
 # 友链               
+* Lean的        
+  [OP编译官方大群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)                
+  [OP编译官方频道](https://t.me/opbypd)                 
+* Lienol的                 
+  [OpenWRT吹水群](https://t.me/openwrtcs)                   
 * [IT奶爸](https://www.youtube.com/c/IT%E5%A5%B6%E7%88%B8/videos)                     
 * [恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
 * [奈菲影视](https://www.nfmovies.com/)                
