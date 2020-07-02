@@ -19,6 +19,12 @@
 # 相关工具         
 * [工具](https://opisthebest.github.io/tool/)                         
 
+# 全新刷机、新版本固件升级                  
+待出视频教程，请等待......           
+
+# 常用插件的使用教程                   
+待出视频教程，请等待......                    
+
 # 友链             
 * [IT奶爸](https://www.youtube.com/c/IT%E5%A5%B6%E7%88%B8/videos)         
 * [沁沁的上网笔记](https://quickvideosharing.github.io/note/)               
