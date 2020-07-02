@@ -8,9 +8,11 @@
 ///其他的硬路由/ARM软路由的固件可在恩山论坛搜索下载到热心站友编译分享的固件：[恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)                   
 ///集成越少插件的固件越低概率出bug ——Lean                          
 
-# 刷机相关工具         
-* [刷机工具](https://opisthebest.github.io/tool/)                  
-
+# 相关工具         
+* [刷机工具](https://opisthebest.github.io/tool/)             
+* [网络测速](https://www.speedtest.net/)            
+* [查看自己IP地址](https://ip.skk.moe/)           
+* [ping测你的IP的连通性](http://ping.pe/)       
 # 全新刷机/升级新版本固件教程                            
 待出视频教程，请等待......           
 
