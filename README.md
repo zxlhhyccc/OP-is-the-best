@@ -14,7 +14,8 @@
 * [微PE启动盘](http://www.wepe.com.cn/download.html)               
 * [网络测速](https://www.speedtest.net/)            
 * [查看自己IP地址](https://ip.skk.moe/)           
-* [ping测你的IP的连通性](http://ping.pe/)              
+* [ping测你的IP的连通性](http://ping.pe/)               
+
 # 全新刷机/升级新版本固件教程                            
 待出视频教程，请等待......           
 
