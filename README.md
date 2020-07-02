@@ -10,7 +10,7 @@
 ///集成越少插件的固件越低概率出bug——Lean                          
 
 # 相关工具         
-* [IMG固件写入硬盘软件](https://github.com/OPisthebest/tool/releases)                     
+* [IMG固件写入硬盘软件](https://github.com/OPisthebest/OP-is-the-best/releases/download/1.6/DiskImg1.6.0.0.exe)                
 * [IMG固件写入TF卡软件](https://github.com/balena-io/etcher/releases)                     
 * [微PE启动盘](http://www.wepe.com.cn/download.html)               
 * [网络测速](https://www.speedtest.net/)            
