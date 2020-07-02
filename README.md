@@ -1,4 +1,4 @@
-此博客最近一次更新时间：2020.07.02            
+此博客最近一次更新时间：2020.07.02 18:17            
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)              
 
 # OpenWRT固件         
