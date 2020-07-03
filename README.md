@@ -1,4 +1,4 @@
-此博客最近一次更新时间：2020.07.02 18:17            
+此博客最近一次更新时间：2020.07.03 12:06            
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)              
 
 # OpenWRT固件         
@@ -16,6 +16,9 @@
 * [网络测速](https://www.speedtest.net/)            
 * [查看自己IP地址](https://ip.skk.moe/)           
 * [ping测你的IP的连通性](http://ping.pe/)               
+
+# 相关命令              
+* sudo rm -rf ~/.local/share/Trash/* //清空回收站                   
 
 # 全新刷机/升级新版本固件教程                            
 待出视频教程，请等待......           
