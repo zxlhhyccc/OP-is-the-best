@@ -18,7 +18,9 @@
 * [ping测你的IP的连通性](http://ping.pe/)               
 
 # 相关命令              
-* sudo rm -rf ~/.local/share/Trash/* //清空回收站                   
+* 清空回收站          
+sudo rm -rf ~/.local/share/Trash/*                      
+
 
 # 全新刷机/升级新版本固件教程                            
 待出视频教程，请等待......           
