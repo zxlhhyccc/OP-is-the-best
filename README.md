@@ -1,10 +1,13 @@
 此博客最近一次更新时间：2020.07.03 12:06            
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)              
 
-# OpenWRT固件         
-* [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233) 👈主passwall插件(现阶段不建议使用)                   
-* [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233) 👈主openclash插件(已经替换好支持ssr的内核)，推荐对分流刚需且动手能力极强的高阶用户使用                
-* [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT) 👈主ssrp插件，推荐小白及不爱折腾用户使用              
+# OpenWRT固件                
+* [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT) 👈主ssrp插件，推荐小白及不爱折腾用户使用             
+* [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233) 👈主passwall插件(现阶段不建议使用)         
+** [passwall针对不同设备分流](https://youtu.be/qkga9DN5H08)                     
+
+* [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233) 👈主openclash插件(已经替换好支持ssr的内核)，推荐对分流刚需且动手能力极强的高阶用户使用         
+
 
 ///其他的硬路由/ARM软路由的固件可在恩山论坛搜索下载到热心站友编译分享的固件：[恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
 ///集成越少插件的固件越低概率出bug——Lean                          
