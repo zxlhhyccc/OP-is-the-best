@@ -34,11 +34,12 @@ sudo rm -rf ~/.local/share/Trash/*
 
 # OpenWRT本土化Fork（可供你自行编译适用于你的设备的固件）                            
 * [Lean的Fork](https://github.com/coolsnowwolf/lede)            
-
+      
 ///目前最主流的Fork，内置Lean开发的ssrp（ShadowsocksR Plus+)翻墙插件，除了x86/ARM，也为一些廉价硬路由赋予了翻墙的价值，可以说是一己之力拉低了可翻墙硬路由的价格门槛，简化的编译依赖自动勾选也让OpenWRT编译门槛降低            
 ///近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)(去掉#注释即可)                   
 
 * [Lienol的Fork](https://github.com/Lienol/openwrt)            
+** [Lienol的actions](https://github.com/Lienol/openwrt-actions)                    
 
 ///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                 
 ///passwall已经恢复开源！               
