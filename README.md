@@ -1,9 +1,9 @@
-此博客最近一次更新时间：2020.07.03 15:29            
+此博客最近一次更新时间：2020.07.04 09:19           
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)              
 
 # OpenWRT固件                
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT) 👈主ssrp插件，推荐小白及不爱折腾用户使用             
-* [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233) 👈主passwall插件(现阶段不建议使用)         
+* [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233) 👈主passwall插件                      
 ** [passwall针对不同设备分流](https://youtu.be/qkga9DN5H08)                     
 
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233) 👈主openclash插件(已经替换好支持ssr的内核)，推荐对分流刚需且动手能力极强的高阶用户使用         
@@ -41,7 +41,7 @@ sudo rm -rf ~/.local/share/Trash/*
 * [Lienol的Fork](https://github.com/Lienol/openwrt)            
 
 ///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                 
-///目前passwall已经闭源，何时会不会再开源未知                                      
+///passwall已经恢复开源！               
 
 # 友链               
 * Lean的        
