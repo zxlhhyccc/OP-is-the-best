@@ -12,6 +12,8 @@
 ** [clashOpenWRT固件第01期，三分钟上手](https://youtu.be/6qqWEPK9ODs)             
 ** [clashOpenWRT固件第02期，SMARTDNS&OPENCLASH完美整合](https://youtu.be/xb-b2xS-tqw)               
 
+* [N1 passwallOpenWRT固件频道](https://t.me/n1passwall)                  
+
 ///其他的硬路由/ARM软路由的固件可在恩山论坛搜索下载到热心站友编译分享的固件：                 
 [恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
 ///集成越少插件的固件越低概率出bug ——Lean                    
