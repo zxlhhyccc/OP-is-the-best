@@ -1,5 +1,7 @@
-此博客最近一次更新时间：2020.07.04 18:49           
+此博客最近一次更新时间：2020.07.04 18:49      
+
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)              
+* [有恩山论坛账号的大哥哥们回复帖子任意内容顶一下热度即可，谢谢❤️](https://www.right.com.cn/forum/thread-4041413-1-1.html)                      
 
 # OpenWRT固件                
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT) 👈主ssrp插件，推荐小白及不爱折腾用户使用             
@@ -10,8 +12,9 @@
 ** [clashOpenWRT固件第01期，三分钟上手](https://youtu.be/6qqWEPK9ODs)             
 ** [clashOpenWRT固件第02期，SMARTDNS&OPENCLASH完美整合](https://youtu.be/xb-b2xS-tqw)               
 
-///其他的硬路由/ARM软路由的固件可在恩山论坛搜索下载到热心站友编译分享的固件：[恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
-///集成越少插件的固件越低概率出bug——Lean                          
+///其他的硬路由/ARM软路由的固件可在恩山论坛搜索下载到热心站友编译分享的固件：                 
+[恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
+///集成越少插件的固件越低概率出bug ——Lean                    
 
 # 相关工具         
 * [PE下IMG写入硬盘软件](https://github.com/OPisthebest/OP-is-the-best/releases)                
