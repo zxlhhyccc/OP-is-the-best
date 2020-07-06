@@ -1,4 +1,4 @@
-此博客最近一次更新时间：2020.07.06 13：27                        
+此博客最近一次更新时间：2020.07.06 17:19      
 
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)         
 
@@ -57,9 +57,11 @@
 
 # 相关命令           
 
+* 完全删除lede文件           
+rm -rf lede                 
+
 * 清空回收站          
 sudo rm -rf ~/.local/share/Trash/*                      
-
 
 # OpenWRT本土化Fork（可供你自行编译适用于你的设备的固件）           
 
