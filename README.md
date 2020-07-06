@@ -42,7 +42,7 @@ sudo rm -rf ~/.local/share/Trash/*
 
 # 升级新版本固件教程        
 
-[升级](./upgrade.md)                     
+* [web页面上传升级](./upgrade.md)                     
 
 
 # 全新刷机                  
