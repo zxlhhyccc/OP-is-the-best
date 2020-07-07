@@ -1,4 +1,4 @@
-![](https://pic.downk.cc/item/5f03d13914195aa59457e2f0.png)                        
+![](https://pic.downk.cc/item/5f03d97314195aa5945ae593.png)                     
 此博客最近一次更新时间：2020.07.07 09:01                     
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)         
 * 有恩山论坛账号的大哥哥们回复帖子任意内容顶一下热度即可谢谢❤️：[帖子](https://www.right.com.cn/forum/thread-4041413-1-1.html)                   
