@@ -1,6 +1,7 @@
 此博客最近一次更新时间：2020.07.07 09:01                     
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)         
-* 有恩山论坛账号的大哥哥们回复帖子任意内容顶一下热度即可谢谢❤️：[帖子](https://www.right.com.cn/forum/thread-4041413-1-1.html)                  
+* 有恩山论坛账号的大哥哥们回复帖子任意内容顶一下热度即可谢谢❤️：[帖子](https://www.right.com.cn/forum/thread-4041413-1-1.html)                   
+
 # OpenWRT固件               
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)           
 👆主ssrp插件。推荐小白及不爱折腾用户使用            
@@ -24,20 +25,25 @@
 ----------------------------------------------------------------------------------
 ///其他的硬路由/ARM软路由的OpenWRT固件可在恩山论坛搜索下载到热心站友编译分享的固件：                 
 [恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
-///集成越少插件的固件越低概率出bug ——Lean                
+///集成越少插件的固件越低概率出bug ——Lean                     
+
 # 升级新版本固件教程        
-* [web页面上传升级](./upgrade.md)                     
+* [web页面上传升级](./upgrade.md)               
+
 # 全新刷机                  
-待出视频教程，请等待......         
+待出视频教程，请等待......                   
+
 # 常用插件的使用教程        
-待出视频教程，请等待......                    
-# 相关工具           
+待出视频教程，请等待......                   
+
+# 相关工具            
 * [PE下IMG写入硬盘软件](https://github.com/OPisthebest/OP-is-the-best/releases)        
 * [IMG写入TF卡软件](https://github.com/balena-io/etcher/releases)          
 * [微PE启动盘](http://www.wepe.com.cn/download.html)           
 * [网络测速](https://www.speedtest.net/)               
 * [查看自己IP地址](https://ip.skk.moe/)               
-* [ping测你的IP的连通性](http://ping.pe/)               
+* [ping测你的IP的连通性](http://ping.pe/)                         
+
 # OpenWRT本土化Fork                
 * [Lean的Fork](https://github.com/coolsnowwolf/lede)             
 ///目前最主流的Fork，内置Lean开发的ssrp（ShadowsocksR Plus+)翻墙插件，除了x86/ARM，也为一些廉价硬路由赋予了翻墙的价值         
@@ -48,12 +54,14 @@
   ** [Lienol的actions](https://github.com/Lienol/openwrt-actions)                  
 ///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                 
 
-///openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash)              
-# 相关命令           
+///openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash)                 
+
+# 相关命令            
 * 完全删除lede文件           
 rm -rf lede                 
 * 清空回收站          
 sudo rm -rf ~/.local/share/Trash/*                           
+
 # 友链              
 * Lean的         
   [OP编译官方大群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)                
