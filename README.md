@@ -1,5 +1,5 @@
 ![](https://pic.downk.cc/item/5f03d97314195aa5945ae593.png)                     
-此博客最近一次更新时间：2020.07.07 20:53      
+此博客最近一次更新时间：2020.07.07 22:07               
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)         
 * 有恩山论坛账号的大哥哥们回复帖子任意内容顶一下热度即可谢谢❤️：[帖子](https://www.right.com.cn/forum/thread-4041413-1-1.html)                   
 
@@ -33,12 +33,12 @@
 * [web页面上传升级/重置](./upgrade.md)               
 
 # 全新刷机                  
-* [东东教你PE写盘刷机](https://youtu.be/50kjIPu3kDY)             
+* [PE下写盘刷机](https://youtu.be/50kjIPu3kDY)             
 ///注意：写盘工具一定要下本博客#相关工具“PE下IMG写入硬盘软件”的版本，大大降低报错概率               
 ///固件自然也推荐用本博客上方给出的几乎都是插件作者亲自编译的官方固件的发布频道里的啦                              
 
-# 常用插件的使用教程        
-待出视频教程，请等待......                   
+# 常用插件的使用教程             
+* [如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发](https://youtu.be/c4HSZzTM7G0)                     
 
 # 相关工具            
 * [PE下IMG写入硬盘软件](https://github.com/OPisthebest/OP-is-the-best/releases)        
