@@ -33,7 +33,8 @@
 * [web页面上传升级/重置](./upgrade.md)               
 
 # 全新刷机                  
-* [PE下写盘刷机](https://youtu.be/50kjIPu3kDY)             
+* [PE下写盘刷机](https://youtu.be/50kjIPu3kDY)           
+
 ///注意：写盘工具一定要下本博客#相关工具“PE下IMG写入硬盘软件”的版本，大大降低报错概率               
 ///固件自然也推荐用本博客上方给出的几乎都是插件作者亲自编译的官方固件的发布频道里的啦                              
 
@@ -50,15 +51,16 @@
 
 # OpenWRT本土化Fork                
 * [Lean的开发Fork](https://github.com/coolsnowwolf/lede)             
-* [Lean的稳定Fork](https://github.com/coolsnowwolf/openwrt)         
+* [Lean的稳定Fork](https://github.com/coolsnowwolf/openwrt)            
+
 ///目前最主流的Fork，内置Lean开发的ssrp（ShadowsocksR Plus+)翻墙插件，除了x86/ARM，也为一些廉价硬路由赋予了翻墙的价值         
 ///近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)(去掉#注释即可)                  
 
 ------------------------------------------------------------------------------------------------------------------
 * [Lienol的Fork](https://github.com/Lienol/openwrt)            
-  ** [Lienol的actions](https://github.com/Lienol/openwrt-actions)                  
-///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                 
+  ** [Lienol的actions](https://github.com/Lienol/openwrt-actions)                        
 
+///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                 
 ///openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash)                 
 
 # 相关命令            
