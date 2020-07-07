@@ -47,7 +47,8 @@
 * [ping测你的IP的连通性](http://ping.pe/)                         
 
 # OpenWRT本土化Fork                
-* [Lean的Fork](https://github.com/coolsnowwolf/lede)             
+* [Lean的开发Fork](https://github.com/coolsnowwolf/lede)             
+* [Lean的稳定Fork](https://github.com/coolsnowwolf/openwrt)         
 ///目前最主流的Fork，内置Lean开发的ssrp（ShadowsocksR Plus+)翻墙插件，除了x86/ARM，也为一些廉价硬路由赋予了翻墙的价值         
 ///近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)(去掉#注释即可)                  
 
