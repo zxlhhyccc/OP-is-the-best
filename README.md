@@ -31,7 +31,6 @@
 
 * [web页面上传升级](./upgrade.md)                     
 
-
 # 全新刷机                  
 
 待出视频教程，请等待......         
@@ -39,7 +38,6 @@
 # 常用插件的使用教程        
 
 待出视频教程，请等待......                    
-
 
 # 相关工具           
 
@@ -55,14 +53,6 @@
 
 * [ping测你的IP的连通性](http://ping.pe/)               
 
-# 相关命令           
-
-* 完全删除lede文件           
-rm -rf lede                 
-
-* 清空回收站          
-sudo rm -rf ~/.local/share/Trash/*                      
-
 # OpenWRT本土化Fork（可供你自行编译适用于你的设备的固件）           
 
 * [Lean的Fork](https://github.com/coolsnowwolf/lede)             
@@ -77,7 +67,14 @@ sudo rm -rf ~/.local/share/Trash/*
   
 ///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                 
       
+# 相关命令           
 
+* 完全删除lede文件           
+rm -rf lede                 
+
+* 清空回收站          
+sudo rm -rf ~/.local/share/Trash/*                      
+      
 # 友链              
 
 * Lean的        
