@@ -3,20 +3,28 @@
 * 有恩山论坛账号的大哥哥们回复帖子任意内容顶一下热度即可谢谢❤️：[帖子](https://www.right.com.cn/forum/thread-4041413-1-1.html)                  
 # OpenWRT固件               
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)           
-👆主ssrp插件。推荐小白及不爱折腾用户使用           
+👆主ssrp插件。推荐小白及不爱折腾用户使用            
+
+----------------------------------------------------------------------------------
 * [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233)          
 👆主passwall插件。推荐喜爱自定义更多用户使用                  
   ** [passwall按地址分流](./fenliu.md)                 
-  ** [passwall按设备分流](https://youtu.be/qkga9DN5H08)                    
+  ** [passwall按设备分流](https://youtu.be/qkga9DN5H08)         
+  
+---------------------------------------------------------------------------------- 
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)                 
 👆主openclash插件(已经替换好支持ssr的内核)。推荐动手能力超强喜爱究极自定义的专业用户使用                                  
   ** [三分钟上手](https://youtu.be/6qqWEPK9ODs)             
-  ** [SMARTDNS&OPENCLASH完美整合](https://youtu.be/xb-b2xS-tqw)              
+  ** [SMARTDNS&OPENCLASH完美整合](https://youtu.be/xb-b2xS-tqw)                
+  
+----------------------------------------------------------------------------------
 * [N1 passwallOpenWRT固件频道](https://t.me/n1passwall)                  
-👆N1盒子也可跑passwallOpenWRT，功耗性能出色                            
+👆N1盒子也可跑passwallOpenWRT，功耗性能出色                    
+
+----------------------------------------------------------------------------------
 ///其他的硬路由/ARM软路由的OpenWRT固件可在恩山论坛搜索下载到热心站友编译分享的固件：                 
 [恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
-///集成越少插件的固件越低概率出bug ——Lean               
+///集成越少插件的固件越低概率出bug ——Lean                
 # 升级新版本固件教程        
 * [web页面上传升级](./upgrade.md)                     
 # 全新刷机                  
