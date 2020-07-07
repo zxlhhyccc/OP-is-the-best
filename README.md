@@ -13,6 +13,7 @@
   ** [passwall按地址分流](./passwall/fenliu.md)                 
   ** [passwall按设备分流](https://youtu.be/qkga9DN5H08)         
   ** [passwall的守护进程/翻墙测速/避免BT走代理](./passwall/ShouhuZhuanfa.md)                    
+  ** [passwall另一种故障切换方法/重置passwall单一插件/隐藏和显示passwall插件](./passwall/QiehuanChongzhiYincang.md)                          
   
 ---------------------------------------------------------------------------------- 
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)                 
