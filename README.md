@@ -46,7 +46,9 @@
 ------------------------------------------------------------------------------------------------------------------
 * [Lienol的Fork](https://github.com/Lienol/openwrt)            
   ** [Lienol的actions](https://github.com/Lienol/openwrt-actions)                  
-///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                      
+///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                 
+
+///openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash)              
 # 相关命令           
 * 完全删除lede文件           
 rm -rf lede                 
