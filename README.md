@@ -38,10 +38,12 @@
 * [网络测速](https://www.speedtest.net/)               
 * [查看自己IP地址](https://ip.skk.moe/)               
 * [ping测你的IP的连通性](http://ping.pe/)               
-# OpenWRT本土化Fork（可供你自行编译适用于你的设备的固件）           
+# OpenWRT本土化Fork                
 * [Lean的Fork](https://github.com/coolsnowwolf/lede)             
 ///目前最主流的Fork，内置Lean开发的ssrp（ShadowsocksR Plus+)翻墙插件，除了x86/ARM，也为一些廉价硬路由赋予了翻墙的价值         
-///近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)(去掉#注释即可)                   
+///近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)(去掉#注释即可)                  
+
+------------------------------------------------------------------------------------------------------------------
 * [Lienol的Fork](https://github.com/Lienol/openwrt)            
   ** [Lienol的actions](https://github.com/Lienol/openwrt-actions)                  
 ///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观                      
