@@ -10,7 +10,7 @@
 
 ----------------------------------------------------------------------------------
 * [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233)          
-👆主passwall插件。推荐喜爱自定义更多用户使用                  
+👆主passwall插件（[功能截图](./passwall/lienolactions.md)）。推荐喜爱自定义更多用户使用                 
   ** [passwall按地址分流](./passwall/fenliu.md)                 
   ** [passwall按设备分流](https://youtu.be/qkga9DN5H08)         
   ** [passwall的守护进程/翻墙测速/避免BT走代理](./passwall/ShouhuZhuanfa.md)                    
