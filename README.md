@@ -31,18 +31,6 @@
 ///其他的硬路由/ARM软路由的OpenWRT固件可在恩山论坛搜索下载到热心站友编译分享的固件：[恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
 ///集成越少插件的固件越低概率出bug ——Lean                     
 
-# 升级新版本/重置固件教程        
-* [web页面上传升级/重置](./upgrade.md)               
-
-# 全新刷机                  
-* [PE下写盘刷机](https://youtu.be/50kjIPu3kDY)           
-
-///注意：写盘工具一定要下本博客#相关工具“PE下IMG写入硬盘软件”的版本，大大降低报错概率               
-///固件自然也推荐用本博客上方给出的几乎都是插件作者亲自编译的官方固件的发布频道里的啦                              
-
-# 常用插件的使用教程             
-* [如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发](https://youtu.be/c4HSZzTM7G0)                     
-
 # 相关工具            
 * [PE下IMG写入硬盘软件](https://github.com/OPisthebest/OP-is-the-best/releases)        
 * [IMG写入TF卡软件](https://github.com/balena-io/etcher/releases)          
@@ -50,6 +38,19 @@
 * [网络测速](https://www.speedtest.net/)               
 * [查看自己IP地址](https://ip.skk.moe/)               
 * [ping测你的IP的连通性](http://ping.pe/)                         
+
+# 升级新版本/重置固件教程        
+* [web页面上传升级/重置](./upgrade.md)               
+
+# 全新刷固件教程                 
+* [PE下写盘刷机](https://youtu.be/50kjIPu3kDY)           
+
+///注意：写盘工具一定要下本博客#相关工具“PE下IMG写入硬盘软件”的版本，大大降低报错概率               
+///固件自然也推荐用本博客上方给出的几乎都是插件作者亲自编译的官方固件的发布频道里的啦                              
+
+
+# 常用插件的使用教程           
+* [如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发](https://youtu.be/c4HSZzTM7G0)                   
 
 # OpenWRT本土化Fork                
 * [Lean的开发Fork](https://github.com/coolsnowwolf/lede)             
