@@ -10,7 +10,8 @@
 
 * 第二步：               
 ![](https://pic.downk.cc/item/5f02b07914195aa594d7af6a.png)                   
-👆配置（强烈建议取消勾选，不保留配置避免bug）>选择文件（你下载的新版本固件，OpenWRT（官方、Lean、Lienol...）一般可以互刷，只要引导方式（BIOS/EFI）是一样的）>刷写固件            
+👆配置（强烈建议取消勾选，不保留配置避免bug）>选择文件（你下载的新版本固件，OpenWRT（官方、Lean、Lienol...）一般可以互刷，只要引导方式（BIOS/EFI）是一样的）>刷写固件         
+///如果升级提示不兼容，建议解压成IMG格式，再上传升级试试                     
 
 * 第三步：   
 ![](https://pic.downk.cc/item/5f02b20414195aa594d86ca2.png)                         
