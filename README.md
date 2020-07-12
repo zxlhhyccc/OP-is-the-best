@@ -2,6 +2,7 @@
 
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)         
 * 有恩山论坛账号的大哥哥们回复帖子任意内容顶一下热度即可谢谢❤️：[帖子](https://www.right.com.cn/forum/thread-4041413-1-1.html)                   
+* IT界第一定理：遇到问题先重启试试                   
 
 # OpenWRT固件               
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)           
