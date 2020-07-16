@@ -2,7 +2,7 @@
 
 【Lienol编译】功能截图                           
 1：           
-![](https://pic.downk.cc/item/5f05216d14195aa594dae672.png)                
+![](https://pic.downk.cc/item/5f0faa1c14195aa5947671bd.png)           
 2：           
 ![](https://pic.downk.cc/item/5f05218714195aa594daee95.png)               
 3：              
