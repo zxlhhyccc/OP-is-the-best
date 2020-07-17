@@ -7,7 +7,9 @@
 # OpenWRT固件               
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)           
 👆主ssrp插件（[功能截图](./ssrp/leanbuild.md)）。推荐小白及不爱折腾用户使用            
-  ** [ssrp避免节点乱跳](./ssrp/qiehuan.md)                   
+  ** [ssrp避免节点乱跳](./ssrp/qiehuan.md)            
+* [ssrpIPK爱好者频道](https://t.me/ssrpIPKnb)                         
+👆luci-app-ssr-plus_XXX-X_all.ipk            
 * [Lean@全体成员频道](https://t.me/LeanAtYou)               
 👆主ssrp插件。Lean艾特你，发布各种Lean原味硬路由/ARM软路由固件、windows镜像、Lean通知......                       
 
