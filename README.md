@@ -61,7 +61,8 @@
 # OpenWRT本土化Fork                
 * [Lean的开发Fork](https://github.com/coolsnowwolf/lede)             
 * [Lean的稳定Fork](https://github.com/coolsnowwolf/openwrt)            
-  ** [Lean授权的actions](https://github.com/KFERMercer/OpenWrt)            
+  ** [Lean授权的actions](https://github.com/KFERMercer/OpenWrt)                  
+
 ///目前最主流的Fork，内置Lean开发的ssrp（ShadowsocksR Plus+)翻墙插件，除了x86/ARM，也为一些廉价硬路由赋予了翻墙的价值         
 ///近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)(去掉#注释即可)                  
 
