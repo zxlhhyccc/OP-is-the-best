@@ -101,7 +101,7 @@ sudo rm -rf ~/.local/share/Trash/*
 
 ---------------------------------------------------------------------------------------------------------------
 ②新锐机场“点亮”(支持v2Ray、SSR协议，V3解锁IPLC游戏专线)（解锁各地区奈飞等流媒体）：                        
-[点亮](http://lo-li.xyz/auth/register?code=DusH)                          
+[点亮](https://lo-li.xyz/auth/register?code=DusH)                          
 
 
 
