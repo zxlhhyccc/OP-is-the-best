@@ -20,7 +20,8 @@
   ** [passwall按设备分流](https://youtu.be/qkga9DN5H08)         
   ** [passwall的守护进程/翻墙测速/避免BT走代理](./passwall/ShouhuZhuanfa.md)                    
   ** [passwall另一种故障切换方法/重置passwall单一插件/隐藏和显示passwall插件](./passwall/QiehuanChongzhiYincang.md)                          
-  ** [passwall的负载均衡使用](https://youtu.be/TRdOfTykgRw)                     
+  ** [passwall的负载均衡使用](https://youtu.be/TRdOfTykgRw)          
+  ** [passwall+smartdns](https://youtu.be/vqAeeLbqvOs)         
 * [passwallIPK爱好者频道](https://t.me/passwallIPKnb)                  
 👆luci-app-passwall_XXX-X_all.ipk                 
 
@@ -57,7 +58,7 @@
 ///固件自然也推荐用本博客上方给出的几乎都是插件作者亲自编译的官方固件的发布频道里的啦                              
 
 
-# 常用插件的使用教程           
+# 常用插件的使用教程                  
 * [如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发](https://youtu.be/c4HSZzTM7G0)                   
 
 # OpenWRT本土化Fork                
