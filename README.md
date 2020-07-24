@@ -97,7 +97,7 @@ sudo rm -rf ~/.local/share/Trash/*
 * [奈菲影视](https://www.nfmovies.com/)        
 * [沁沁的上网笔记](https://quickvideosharing.github.io/note/)                
 
-# 优质翻墙机场         
+# 优质翻墙机场(您的支持是我持续更新的动力❤)               
 * [管理员本本监督合作机场](./AIRPORT.md)                
 
 
