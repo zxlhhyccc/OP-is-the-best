@@ -1,5 +1,6 @@
 ![](https://pic.downk.cc/item/5f13d9fc14195aa594c0dc50.png)              
 
+* [墙外小报](https://t.me/FQnews)        
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)         
 * 有恩山论坛账号的大哥哥们回复帖子任意内容顶一下热度即可谢谢❤️：[帖子](https://www.right.com.cn/forum/thread-4041413-1-1.html)                   
 * IT界第一定理：遇到问题先重启试试                   
