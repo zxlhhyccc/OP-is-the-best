@@ -61,6 +61,7 @@
 
 # 常用插件的使用教程                  
 * [如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发](https://youtu.be/c4HSZzTM7G0)                   
+* [ZeroTier 免费虚拟局域网教程：内网穿透 OpenWrt、群晖NAS](https://youtu.be/U3aRXg3ejks)            
 
 # OpenWRT本土化Fork                
 * [Lean的开发Fork](https://github.com/coolsnowwolf/lede)             
