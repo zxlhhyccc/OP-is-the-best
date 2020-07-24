@@ -28,7 +28,7 @@
 
 ---------------------------------------------------------------------------------- 
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)                 
-👆主openclash插件(已经替换好支持ssr的内核)。推荐动手能力超强喜爱究极自定义的专业用户使用                                  
+👆主openclash插件。推荐动手能力超强喜爱究极自定义的专业用户使用                                  
   ** [三分钟上手](https://youtu.be/6qqWEPK9ODs)             
   ** [搭配使用smartdns&openclash](https://youtu.be/xb-b2xS-tqw)                
   
