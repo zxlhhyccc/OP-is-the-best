@@ -88,7 +88,8 @@ sudo rm -rf ~/.local/share/Trash/*
 # 友链              
 * Lean的         
   [OP编译官方大群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)                
-  [OP编译官方频道](https://t.me/opbypd)         
+  [OP编译官方频道](https://t.me/opbypd)      
+  QQ群：297253733                        
 * Lienol的                  
   [OpenWRT吹水群](https://t.me/openwrtcs)              
 * [IT奶爸](https://www.youtube.com/c/IT%E5%A5%B6%E7%88%B8/videos)         
