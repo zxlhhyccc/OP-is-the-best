@@ -48,8 +48,8 @@
 * [查看自己IP地址](https://ip.skk.moe/)               
 * [ping测你的IP的连通性](http://ping.pe/)                         
 
-# 升级新版本/重置固件教程        
-* [web页面上传升级/重置](./upgrade.md)               
+# 升级新版本/切换版本/回滚/重置固件教程               
+* [web页面上传升级/重置/切换/回滚](./upgrade.md)               
 
 # 全新刷固件教程                 
 * [PE下写盘刷机](https://youtu.be/50kjIPu3kDY)           
