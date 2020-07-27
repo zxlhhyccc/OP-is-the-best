@@ -91,7 +91,8 @@ C:\Windows\System32\drivers\etc
 * powershell中SSH连接路由器后台举例                  
 ssh root@192.168.2.1 
 password                
-* 
+* 远古版本ssrp芝麻开门命令            
+echo 0xDEADBEEF > /etc/config/google_fu_mode
 
 # 友链              
 * Lean的         
