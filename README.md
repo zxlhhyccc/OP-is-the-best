@@ -81,11 +81,13 @@
 ----------------------------------------------------------------------------------------------------------------------------
 * openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash)                 
 
-# 相关命令            
+# 相关命令/位置            
 * 完全删除lede文件           
 rm -rf lede                 
 * 清空回收站          
 sudo rm -rf ~/.local/share/Trash/*                           
+* Windows的HOSTS文件位置(当出现一些网页元素加载失败时可以尝试清空HOSTS规则)                       
+C:\Windows\System32\drivers\etc                       
 
 # 友链              
 * Lean的         
