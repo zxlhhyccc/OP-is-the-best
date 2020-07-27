@@ -1,9 +1,10 @@
 ![](https://pic.downk.cc/item/5f13d9fc14195aa594c0dc50.png)              
 
+* telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)      
 * [墙外小报](https://t.me/FQnews)        
-* telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)         
 * 有恩山论坛账号的大哥哥们回复帖子任意内容顶一下热度即可谢谢❤️：[帖子](https://www.right.com.cn/forum/thread-4041413-1-1.html)                   
-* IT界第一定理：遇到问题先重启试试                   
+* IT界第一定理：遇到问题先重启试试      
+* [管理员本本监督合作机场](./AIRPORT.md)      
 
 # OpenWRT固件               
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)           
@@ -115,8 +116,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [奈菲影视](https://www.nfmovies.com/)        
 * [沁沁的上网笔记](https://quickvideosharing.github.io/note/)                
 
-# 优质翻墙机场(您的支持是我持续更新的动力❤)               
-* [管理员本本监督合作机场](./AIRPORT.md)                
+   
+           
 
 
 
