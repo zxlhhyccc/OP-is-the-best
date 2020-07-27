@@ -1,5 +1,6 @@
 ![](https://pic.downk.cc/item/5f13d9fc14195aa594c0dc50.png)              
 
+* telegram全平台客户端[下载页](https://telegram.org/apps)       
 * telegram汉化：[汉化](https://t.me/setlanguage/classic-zh)      
 * [墙外小报](https://t.me/FQnews)        
 * 有恩山论坛账号的大哥哥们回复帖子任意内容顶一下热度即可谢谢❤️：[帖子](https://www.right.com.cn/forum/thread-4041413-1-1.html)                   
