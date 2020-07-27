@@ -5,7 +5,7 @@
 * [墙外小报](https://t.me/FQnews)        
 * 有恩山论坛账号的大哥哥们回复[帖子](https://www.right.com.cn/forum/thread-4041413-1-1.html)任意内容顶一下热度即可谢谢          
 * IT界第一定理：遇到问题先重启试试      
-* [管理员本本监督合作机场](./AIRPORT.md)      
+* 管理员本本监督合作[机场](./AIRPORT.md)      
 
 # OpenWRT固件               
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)           
