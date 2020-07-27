@@ -2,19 +2,19 @@
 
 【Lienol编译】功能截图                           
 1：           
-![](https://pic.downk.cc/item/5f0faa1c14195aa5947671bd.png)           
+![aPoXi6.png](https://s1.ax1x.com/2020/07/27/aPoXi6.png)         
 2：           
 ![](https://pic.downk.cc/item/5f05218714195aa594daee95.png)               
 3：              
 ![](https://pic.downk.cc/item/5f05219614195aa594daf497.png)               
 4：                
-![](https://pic.downk.cc/item/5f06644a14195aa5944f3726.png)            
+![aPTpsH.png](https://s1.ax1x.com/2020/07/27/aPTpsH.png)                         
 5：              
 ![](https://pic.downk.cc/item/5f0521b014195aa594dafee3.png)              
 6：                
 ![](https://pic.downk.cc/item/5f0521bd14195aa594db0347.png)                         
 7：               
-![](https://pic.downk.cc/item/5f0521cd14195aa594db091e.png)                    
+![aPTPeA.png](https://s1.ax1x.com/2020/07/27/aPTPeA.png)                 
 8：                 
 ![](https://pic.downk.cc/item/5f0521de14195aa594db10a2.png)                        
 
