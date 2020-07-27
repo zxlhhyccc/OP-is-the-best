@@ -92,7 +92,9 @@ C:\Windows\System32\drivers\etc
 ssh root@192.168.2.1             
 password        
 * openwrt恢复出厂设置命令             
-firstboot           
+firstboot      
+* 修改后台密码命令          
+passwd          
 * 远古版本ssrp芝麻开门命令            
 echo 0xDEADBEEF > /etc/config/google_fu_mode                 
 
