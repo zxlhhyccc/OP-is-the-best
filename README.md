@@ -81,7 +81,9 @@
 ----------------------------------------------------------------------------------------------------------------------------
 * openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash)                 
 
-# 相关命令/位置            
+# 相关命令/位置         
+* cmd下清空Windows系统当下DNS缓存             
+ipconfig/flushdns        
 * 完全删除lede文件           
 rm -rf lede                 
 * 清空回收站          
