@@ -88,11 +88,13 @@ rm -rf lede
 sudo rm -rf ~/.local/share/Trash/*                           
 * Windows的HOSTS文件位置(当出现一些网页元素加载失败时可以尝试清空HOSTS规则)                       
 C:\Windows\System32\drivers\etc                       
-* powershell中SSH连接路由器后台举例                  
-ssh root@192.168.2.1 
-password                
+* powershell中SSH连接路由器后台举例               
+ssh root@192.168.2.1             
+password        
+* openwrt恢复出厂设置命令             
+firstboot           
 * 远古版本ssrp芝麻开门命令            
-echo 0xDEADBEEF > /etc/config/google_fu_mode
+echo 0xDEADBEEF > /etc/config/google_fu_mode                 
 
 # 友链              
 * Lean的         
