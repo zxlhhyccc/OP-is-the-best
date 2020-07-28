@@ -104,6 +104,7 @@ passwd
 vi /etc/config/network
 * 远古版本ssrp芝麻开门命令            
 echo 0xDEADBEEF > /etc/config/google_fu_mode                 
+* [Ubuntu虚拟机修改软件源](./vmbuild.md)                  
 
 # 友链              
 * Lean的         
