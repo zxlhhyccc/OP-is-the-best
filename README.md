@@ -90,7 +90,7 @@ YA18K-0WY8P-H85DY-L4NZG-X7RAD
 
 ------------------------------------------------------------------------------------------------------------------
 * [Lienol的Fork的开发branch](https://github.com/Lienol/openwrt/tree/dev-master)            
-* [Lienol的Fork的稳定branc](https://github.com/Lienol/openwrt/tree/dev-19.07)              
+* [Lienol的Fork的稳定branch](https://github.com/Lienol/openwrt/tree/dev-19.07)              
   ** [Lienol的actions](https://github.com/Lienol/openwrt-actions)                        
 
 ///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观           
