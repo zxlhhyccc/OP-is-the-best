@@ -98,7 +98,9 @@ YA18K-0WY8P-H85DY-L4NZG-X7RAD
 ----------------------------------------------------------------------------------------------------------------------------
 * openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash)                 
 
-# 相关命令/位置         
+# 相关命令/位置       
+* 确认LAN口是开启DHCP服务器的情况下访问后台：             
+http://openwrt.lan              
 * cmd下清空Windows系统当下DNS缓存             
 ipconfig/flushdns        
 * 完全删除lede文件           
