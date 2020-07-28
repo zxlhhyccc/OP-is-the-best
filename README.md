@@ -113,6 +113,12 @@ su zhangsan
 cd /home/zhangsan         
 sudo apt-get update        
 sudo apt-get install vim        
+* 举例指定git拉取my-19.07分支：           
+git clone -b my-19.07 https://github.com/Lienol/openwrt.git                  
+* 最常用的USB转网卡驱动：       
+kernel modules>USB support>kmod-usb-net>kmod-usb-net-asix               
+* 显示隐藏文件（.config）：           
+ls -a / Ctrl+H
 
 # 友链              
 * Lean的         
