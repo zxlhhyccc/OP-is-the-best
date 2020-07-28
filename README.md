@@ -58,7 +58,10 @@ UA5DR-2ZD4H-089FY-6YQ5T-YPRX6
 GA590-86Y05-4806Y-X4PEE-ZV8E0      
 ZF582-0NW5N-H8D2P-0XZEE-Z22VA         
 YA18K-0WY8P-H85DY-L4NZG-X7RAD        
-* [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)             
+* [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)        
+* [数据单位的换算](http://www.zhongguosou.com/computer_question_tools/data_rate_caculator.html)          
+* [网络扫描工具](https://www.advanced-ip-scanner.com/cn/)        
+
 
 
 # 升级新版本/切换版本/回滚/重置固件教程               
@@ -141,8 +144,7 @@ ls -a / Ctrl+H
 * [IT奶爸](https://www.youtube.com/c/IT%E5%A5%B6%E7%88%B8/videos)         
 * [BIGDONGDONG](https://www.youtube.com/c/BIGdongdong/videos)            
 * [恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
-* [奈菲影视](https://www.nfmovies.com/)        
-* [沁沁的上网笔记](https://quickvideosharing.github.io/note/)                
+* [奈菲影视](https://www.nfmovies.com/)               
 
    
            
