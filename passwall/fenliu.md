@@ -1,7 +1,8 @@
 [返回首页](https://opisthebest.github.io/OP-is-the-best/)                
 
-最新passwall的菜单发生调整，但是并不影响下图教程的理解             
+最新passwall的菜单发生调整，但是并不影响下图教程的理解        
 
+借用v2ray分流模块+自建分流规则，实现按访问地址分流：                   
 * 第一步：            
 ![](https://pic.downk.cc/item/5f01bf6914195aa59449f761.jpg)                      
 👆节点列表页面有个“添加”按钮，手动添加               
