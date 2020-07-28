@@ -89,7 +89,8 @@ YA18K-0WY8P-H85DY-L4NZG-X7RAD
 ///近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)(去掉#注释即可)                  
 
 ------------------------------------------------------------------------------------------------------------------
-* [Lienol的Fork](https://github.com/Lienol/openwrt)            
+* [Lienol的Fork的开发branch](https://github.com/Lienol/openwrt/tree/dev-master)            
+* [Lienol的Fork的稳定branc](https://github.com/Lienol/openwrt/tree/dev-19.07)              
   ** [Lienol的actions](https://github.com/Lienol/openwrt-actions)                        
 
 ///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观           
