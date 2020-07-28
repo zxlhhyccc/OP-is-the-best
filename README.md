@@ -58,6 +58,7 @@ UA5DR-2ZD4H-089FY-6YQ5T-YPRX6
 GA590-86Y05-4806Y-X4PEE-ZV8E0      
 ZF582-0NW5N-H8D2P-0XZEE-Z22VA         
 YA18K-0WY8P-H85DY-L4NZG-X7RAD        
+* [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)             
 
 
 # 升级新版本/切换版本/回滚/重置固件教程               
