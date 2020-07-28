@@ -145,7 +145,7 @@ ls -a / Ctrl+H
 * [BIGDONGDONG](https://www.youtube.com/c/BIGdongdong/videos)            
 * [恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
 * [奈菲影视](https://www.nfmovies.com/)               
-
+* [沁沁的上网笔记](https://quickvideosharing.github.io/note/)               
    
            
 
