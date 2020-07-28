@@ -105,6 +105,14 @@ vi /etc/config/network
 * 远古版本ssrp芝麻开门命令            
 echo 0xDEADBEEF > /etc/config/google_fu_mode                 
 * [Ubuntu虚拟机修改软件源](./vmbuild.md)                  
+* 默认root进入系统添加普通用户：            
+sudo useradd -m zhangsan -s /bin/bash           
+sudo passwd zhangsan           
+sudo adduser zhangsan sudo           
+su zhangsan           
+cd /home/zhangsan         
+sudo apt-get update        
+sudo apt-get install vim        
 
 # 友链              
 * Lean的         
