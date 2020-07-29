@@ -17,7 +17,7 @@
 👆主ssrp插件。Lean艾特你，发布各种Lean原味硬路由/ARM软路由固件、windows镜像、Lean通知......                       
 
 ----------------------------------------------------------------------------------
-* [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233)          
+* [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233) || [Lienol的actions](https://github.com/Lienol/openwrt-actions)                 
 👆主passwall插件（[功能截图](./passwall/lienolactions.md)）。推荐喜爱自定义更多用户使用                 
   ** [passwall按地址分流](./passwall/fenliu.md)                 
   ** [passwall按设备分流](https://youtu.be/qkga9DN5H08)         
@@ -90,7 +90,6 @@ YA18K-0WY8P-H85DY-L4NZG-X7RAD
 ------------------------------------------------------------------------------------------------------------------
 * [Lienol的Fork的开发branch](https://github.com/Lienol/openwrt/tree/dev-master)            
 * [Lienol的Fork的稳定branch](https://github.com/Lienol/openwrt/tree/dev-19.07)              
-  ** [Lienol的actions](https://github.com/Lienol/openwrt-actions)                        
 
 ///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观           
 
