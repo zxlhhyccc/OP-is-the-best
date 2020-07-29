@@ -143,10 +143,9 @@ ls -a / Ctrl+H
 * Lienol的                  
   OpenWRT吹水群(已转为私有，仅可被群内成员邀请添加进入)                    
 * [IT奶爸](https://www.youtube.com/c/IT%E5%A5%B6%E7%88%B8/videos)         
-* [BIGDONGDONG](https://www.youtube.com/c/BIGdongdong/videos)            
-* [恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
+* [BIGDONGDONG](https://www.youtube.com/c/BIGdongdong/videos)              
 * [奈菲影视](https://www.nfmovies.com/)               
-* [沁沁的上网笔记](https://quickvideosharing.github.io/note/)               
+     
    
            
 
