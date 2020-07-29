@@ -8,7 +8,7 @@
 * 管理员本本监督合作[机场](./AIRPORT.md)      
 
 # OpenWRT固件               
-* [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)/[Lean授权的actions](https://github.com/KFERMercer/OpenWrt)                  
+* [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT) || [Lean授权的actions](https://github.com/KFERMercer/OpenWrt)                  
 👆主ssrp插件（[功能截图](./ssrp/leanbuild.md)）。推荐小白及不爱折腾用户使用         
   ** [ssrp避免节点乱跳](./ssrp/qiehuan.md)            
 * [ssrpIPK爱好者频道](https://t.me/ssrpIPKnb)                         
