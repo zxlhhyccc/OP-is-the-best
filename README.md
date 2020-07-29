@@ -8,8 +8,8 @@
 * 管理员本本监督合作[机场](./AIRPORT.md)      
 
 # OpenWRT固件               
-* [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)           
-👆主ssrp插件（[功能截图](./ssrp/leanbuild.md)）。推荐小白及不爱折腾用户使用            
+* [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)/[Lean授权的actions](https://github.com/KFERMercer/OpenWrt)                  
+👆主ssrp插件（[功能截图](./ssrp/leanbuild.md)）。推荐小白及不爱折腾用户使用         
   ** [ssrp避免节点乱跳](./ssrp/qiehuan.md)            
 * [ssrpIPK爱好者频道](https://t.me/ssrpIPKnb)                         
 👆luci-app-ssr-plus_XXX-X_all.ipk            
@@ -83,7 +83,6 @@ YA18K-0WY8P-H85DY-L4NZG-X7RAD
 # OpenWRT本土化Fork                
 * [Lean的开发Fork](https://github.com/coolsnowwolf/lede)             
 * [Lean的稳定Fork](https://github.com/coolsnowwolf/openwrt)            
-  ** [Lean授权的actions](https://github.com/KFERMercer/OpenWrt)                  
 
 ///目前最主流的Fork，内置Lean开发的ssrp（ShadowsocksR Plus+)翻墙插件，除了x86/ARM，也为一些廉价硬路由赋予了翻墙的价值         
 ///近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)(去掉#注释即可)                  
