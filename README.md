@@ -143,7 +143,7 @@ ls -a / Ctrl+H
   QQ群：297253733          
   [lean的个人空间](https://www.right.com.cn/forum/?80616)         
 * Lienol的                  
-  [OpenWRT吹水群](https://t.me/openwrtcs)              
+  OpenWRT吹水群(转为私有，仅可被群内成员邀请添加进入)                    
 * [IT奶爸](https://www.youtube.com/c/IT%E5%A5%B6%E7%88%B8/videos)         
 * [BIGDONGDONG](https://www.youtube.com/c/BIGdongdong/videos)            
 * [恩山论坛](https://www.right.com.cn/forum/forum-72-1.html)             
