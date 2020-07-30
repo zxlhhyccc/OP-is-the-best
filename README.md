@@ -7,7 +7,7 @@
 * IT界第一定理：遇到问题先重启试试      
 * 管理员本本监督合作[机场](./AIRPORT.md)      
 
-# OpenWRT固件               
+# OpenWRT固件/本土化Fork           
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT) || [Lean授权的actions](https://github.com/KFERMercer/OpenWrt)                  
 👆主ssrp插件（[功能截图](./ssrp/leanbuild.md)）。推荐小白及不爱折腾用户使用         
   ** [ssrp避免节点乱跳](./ssrp/qiehuan.md)            
@@ -15,6 +15,10 @@
 👆luci-app-ssr-plus_XXX-X_all.ipk            
 * [Lean@全体成员频道](https://t.me/LeanAtYou)               
 👆主ssrp插件。Lean艾特你，发布各种Lean原味硬路由/ARM软路由固件、windows镜像、Lean通知......                       
+* [Lean的开发Fork](https://github.com/coolsnowwolf/lede)             
+* [Lean的稳定Fork](https://github.com/coolsnowwolf/openwrt)            
+///目前最主流的Fork，内置Lean开发的ssrp（ShadowsocksR Plus+)翻墙插件，除了x86/ARM，也为一些廉价硬路由赋予了翻墙的价值         
+///近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)(去掉#注释即可)                  
 
 ----------------------------------------------------------------------------------
 * [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233) || [Lienol的actions](https://github.com/Lienol/openwrt-actions)                 
@@ -27,13 +31,17 @@
   ** [passwall+smartdns](https://youtu.be/vqAeeLbqvOs)         
 * [passwallIPK爱好者频道](https://t.me/passwallIPKnb)                  
 👆luci-app-passwall_XXX-X_all.ipk                 
+* [Lienol的Fork的开发branch](https://github.com/Lienol/openwrt/tree/dev-master)            
+* [Lienol的Fork的稳定branch](https://github.com/Lienol/openwrt/tree/dev-19.07)              
+///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观           
 
 ---------------------------------------------------------------------------------- 
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)                 
 👆主openclash插件。推荐动手能力超强喜爱究极自定义的专业用户使用                                  
   ** [三分钟上手](https://youtu.be/6qqWEPK9ODs)             
   ** [搭配使用smartdns&openclash](https://youtu.be/xb-b2xS-tqw)                
-  
+* openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash/tree/master)                  
+
 ----------------------------------------------------------------------------------
 * [N1 passwallOpenWRT固件频道](https://t.me/n1passwall)                  
 👆N1盒子也可跑passwall，功耗性能出色           
@@ -79,22 +87,6 @@ YA18K-0WY8P-H85DY-L4NZG-X7RAD
 * [如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发](https://youtu.be/c4HSZzTM7G0)                   
 * [ZeroTier 免费虚拟局域网教程：内网穿透 OpenWrt、群晖NAS](https://youtu.be/U3aRXg3ejks)            
 * [旁路由下访问国内网络缓慢/失败解决办法](./sidefirewall.md)              
-
-# OpenWRT本土化Fork                
-* [Lean的开发Fork](https://github.com/coolsnowwolf/lede)             
-* [Lean的稳定Fork](https://github.com/coolsnowwolf/openwrt)            
-
-///目前最主流的Fork，内置Lean开发的ssrp（ShadowsocksR Plus+)翻墙插件，除了x86/ARM，也为一些廉价硬路由赋予了翻墙的价值         
-///近期发现没了ssrp的请看[这里](https://github.com/coolsnowwolf/lede/blob/master/feeds.conf.default)(去掉#注释即可)                  
-
-------------------------------------------------------------------------------------------------------------------
-* [Lienol的Fork的开发branch](https://github.com/Lienol/openwrt/tree/dev-master)            
-* [Lienol的Fork的稳定branch](https://github.com/Lienol/openwrt/tree/dev-19.07)              
-
-///紧跟官方OpenWRT，Lienol只关注x86设备，内置Lienol开发的passwall翻墙插件，有一些Lienol改的LuCI主题较为美观           
-
-----------------------------------------------------------------------------------------------------------------------------
-* openclash开发者vernesong没有DIY自己的OpenWRT，他的openclash项目地址：[openclash](https://github.com/vernesong/OpenClash/tree/master)                 
 
 # 相关命令/位置       
 * 确认LAN口是开启DHCP服务器的情况下访问后台：             
